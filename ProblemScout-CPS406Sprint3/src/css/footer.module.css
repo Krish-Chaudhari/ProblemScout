@@ -1,0 +1,30 @@
+.footer {
+    color:black;
+    display:flex;
+    align-items:center;
+    gap:150px;
+    padding-top:25px;
+}
+
+.firstContainer {
+    font-size:15px;
+    max-width:25%;
+    max-height:fit-content;
+    color:black;
+    margin-left:250px;
+}
+
+.iconAndName {
+    display:flex;
+    align-items:center;
+    gap:20px;
+}
+.firstContainerLocationDot {
+    height:30px;
+    width:30px;
+}
+
+.firstContainerName {
+    color:black;
+    font-weight:bolder;
+}

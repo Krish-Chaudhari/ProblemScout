@@ -4,6 +4,7 @@ import Difference from './Difference.jsx'
 import RecentReport from './RecentReport.jsx'
 import HowItWorks from './HowItWorks.jsx'
 import Community from './Community.jsx'
+import Footer from './Footer.jsx'
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <RecentReport />
       <HowItWorks /> 
       <Community />
+      <Footer />
     </>
   );
 }
