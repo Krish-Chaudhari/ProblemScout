@@ -1,0 +1,74 @@
+
+.navbar {
+    width:100vw;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    padding:10px;
+    gap:500px;
+    background-color:#F7F9FC;
+  }
+  
+  .leftPortion {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:20px;
+  }
+  
+  .leftPortion .locationDot {
+    color:#158CB7;
+    height:25px;
+    width:25px;
+  }
+  
+  .leftPortion .projectName {
+    color:black;
+    font-size:20px;
+  }
+  
+  .rightPortion {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    gap:20px;
+  }
+  
+  .rightPortion .loginContainer {
+    background-color:#F8FAFC;
+    padding:10px;
+    border-radius:10px;
+  }
+
+  .rightPortion .loginContainer :hover {
+    cursor:pointer;
+  }
+
+  .loginContainer .loginButton {
+    background-color:transparent;
+    border:none;
+    color:black;
+    font-size:15px;
+    font-weight:bold;
+  }
+
+  .loginContainer .loginImg {
+    color:black;
+  }
+
+  .rightPortion .signupContainer {
+    background-color:#158CB7;
+    padding:12px;
+    border-radius:10px;
+    display:flex;
+    cursor:pointer;
+  }
+
+  .rightPortion .signupContainer .signupButton {
+    background-color:transparent;
+    border:none;
+    color:white;
+    font-weight:bolder;
+  }
+
+

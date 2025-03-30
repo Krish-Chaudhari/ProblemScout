@@ -1,0 +1,19 @@
+.differenceContainer {
+    margin-top:50px;
+    text-align:center;
+    background-color:#158CB7;
+    padding-bottom:30px;
+}
+
+.differenceTitle {
+    padding-top:50px;
+    font-size:30px;
+}
+
+.problemsContainer {
+    display:flex;
+    justify-content:center;
+    gap:40px;
+    margin-top:40px;
+}
+

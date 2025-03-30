@@ -1,0 +1,24 @@
+.benefit {
+    text-align:center;
+    background-color:#FFFFFF;
+    width:450px;
+    border-radius:10px;
+}
+
+.benefitIcon {
+    margin-top:20px;
+    height:30px;
+    width:30px;
+}
+
+.benefitTitle {
+    font-weight:bolder;
+    font-size:25px;
+}
+
+.benefitDescription {
+    margin-left:25px;
+    max-width:400px;
+    text-wrap:wrap;
+    font-size:14px;
+}

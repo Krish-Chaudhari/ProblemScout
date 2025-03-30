@@ -1,0 +1,45 @@
+.report {
+    border-radius: 10px;
+    border:1px solid #E2E8F0;
+    background-color:white;
+    width:450px;
+}
+
+.reportTitle {
+    font-size:25px;
+    margin-left:30px;
+    font-weight:bolder;
+}
+
+.reportAddress {
+    margin-left:10px;
+    font-size:15px;
+}
+
+.reportDescription {
+    margin-left:30px;
+    font-size:12px;
+}
+
+.addressContainer {
+    display:flex;
+    align-items:center;
+    margin-left:30px;
+}
+
+.addressIcon {
+    height:13px;
+    width:13px;
+}
+
+.reportBtn {
+    background-color:#F4F7FA;
+    display:flex;
+    justify-content:center;
+    width:400px;
+    border-radius:10px;
+    padding:13px;
+    margin:30px auto;
+    border:1px solid #E2E8F0;
+    font-weight:bolder;
+}
