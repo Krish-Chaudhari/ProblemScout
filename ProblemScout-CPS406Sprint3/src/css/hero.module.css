@@ -41,6 +41,7 @@
     color:white;
     font-weight:bolder;
     border:0.1px solid black;
+    z-index:10;
 }
 
 .heroButtonsContainer .learnMoreBtn {

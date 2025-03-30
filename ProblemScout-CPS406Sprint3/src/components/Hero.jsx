@@ -1,4 +1,5 @@
 import styles from '../css/hero.module.css'
+import { Link } from 'react-router-dom'
 
 function Hero() {
 
@@ -9,7 +10,9 @@ function Hero() {
                 <p className={styles.heroDescription}> Presenting to you ProblemScout, your best companion in the neighbourhood. 
                     ProblemScout makes it easy to identify, report, and follow up on problems later. Help make your community better and track problem resoltuions </p>
                 <div className={styles.heroButtonsContainer}>
-                    <button className={styles.reportProblemBtn}> Report a Problem </button>
+                    <Link to="/about"> 
+                        <button className={styles.reportProblemBtn} link to="/about"> Report a Problem </button>
+                    </Link>
                     <button className={styles.learnMoreBtn}> Learn More </button>
                 </div>
             </div>

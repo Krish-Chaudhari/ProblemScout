@@ -38,6 +38,7 @@
     background-color:#F8FAFC;
     padding:10px;
     border-radius:10px;
+    border:1px solid #E2E8F0;
   }
 
   .rightPortion .loginContainer :hover {
