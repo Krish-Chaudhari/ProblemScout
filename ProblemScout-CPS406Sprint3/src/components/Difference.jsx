@@ -1,5 +1,5 @@
-import styles from './css/difference.module.css'
-import ProblemBox from './ProblemBox.jsx'
+import styles from '../css/difference.module.css'
+import ProblemBox from '../components/ProblemBox.jsx'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faExclamationTriangle } from "@fortawesome/free-solid-svg-icons";
 import { faArrowTrendUp } from '@fortawesome/free-solid-svg-icons';

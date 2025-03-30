@@ -3,7 +3,7 @@ import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 import { faRightToBracket } from "@fortawesome/free-solid-svg-icons";
 import { faUserPlus } from "@fortawesome/free-solid-svg-icons";
 
-import styles from './css/navbar.module.css'
+import styles from '../css/navbar.module.css'
 
 function Navbar() {
     return(

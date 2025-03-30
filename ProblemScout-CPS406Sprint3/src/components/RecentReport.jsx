@@ -1,5 +1,5 @@
-import styles from './css/recentreport.module.css'
-import Report from './Report.jsx'
+import styles from '../css/recentreport.module.css'
+import Report from '../components/Report.jsx'
 
 
 function RecentReport() {

@@ -1,4 +1,4 @@
-import styles from './css/benefit.module.css'
+import styles from '../css/benefit.module.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 

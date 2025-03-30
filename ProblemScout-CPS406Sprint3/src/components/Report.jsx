@@ -1,4 +1,4 @@
-import styles from './css/report.module.css'
+import styles from '../css/report.module.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 

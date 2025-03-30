@@ -1,5 +1,5 @@
-import styles from './css/howitworks.module.css'
-import Benefit from './Benefit.jsx'
+import styles from '../css/howitworks.module.css'
+import Benefit from '../components/Benefit.jsx'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 import { faArrowTrendUp } from '@fortawesome/free-solid-svg-icons';

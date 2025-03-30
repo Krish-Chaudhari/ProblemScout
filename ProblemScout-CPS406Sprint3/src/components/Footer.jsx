@@ -1,7 +1,7 @@
-import styles from './css/footer.module.css'
+import styles from '../css/footer.module.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
-import Navigation from './Navigation.jsx'
+import Navigation from '../components/Navigation.jsx'
 
 function Footer() {
 

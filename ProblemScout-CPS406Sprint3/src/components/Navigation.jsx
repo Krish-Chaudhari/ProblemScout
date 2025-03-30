@@ -1,4 +1,4 @@
-import styles from './css/navigation.module.css'
+import styles from '../css/navigation.module.css'
 
 function Navigation({title, subtopic1, subtopic2, subtopic3}) {
     return(
